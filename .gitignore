@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Build outputs (if any)
+dist/
+build/
+*.js
+*.d.ts
+
+# Runtime-generated reports (users generate these themselves)
+# Note: Don't ignore if you want to include example reports
+# report/
+
+# Cache files
+.inspector-cache/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+.env.local
+
